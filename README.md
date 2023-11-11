@@ -1,6 +1,8 @@
 # OpenQASM LSP
 An OpenQASM language server and Visual Studio Code client implementation.
 
+![Example Image](images/example.png)
+
 ## Functionality
 
 This Language Server works for .qasm files. It has diagnostics regenerated on each file change or configuration change.
