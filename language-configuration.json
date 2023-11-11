@@ -1,0 +1,14 @@
+{
+  "comments": {
+    "lineComment": "//"
+  },
+  "brackets": [
+    ["{", "}"],
+    ["[", "]"],
+    ["(", ")"]
+  ],
+  "indentationRules": {
+    "increaseIndentPattern": "^\\s*\\{",
+    "decreaseIndentPattern": "^\\s*\\}"
+  }
+}

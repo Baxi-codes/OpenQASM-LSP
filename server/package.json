@@ -1,0 +1,15 @@
+{
+	"name": "openqasm-language-server",
+	"description": "Implementation of OpenQASM language server in node.",
+	"version": "1.0.0",
+	"author": "Baxi",
+	"license": "MIT",
+	"engines": {
+		"node": "*"
+	},
+	"dependencies": {
+		"vscode-languageserver": "^8.1.0",
+		"vscode-languageserver-textdocument": "^1.0.8"
+	},
+	"scripts": {}
+}
