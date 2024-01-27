@@ -1,5 +1,5 @@
 {
-	"name": "lsp-sample",
+	"name": "openqasm-language-server",
 	"description": "OpenQASM LSP",
 	"author": "Baxi",
 	"license": "MIT",
